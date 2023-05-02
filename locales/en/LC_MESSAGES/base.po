@@ -1,0 +1,200 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2023-03-17 10:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#: binmerge-gui.py:98
+msgid "Bin file not found or not readable: %s"
+msgstr ""
+
+#: binmerge-gui.py:202 binmerge-gui.py:224
+msgid "Target bin path already exists: %s"
+msgstr ""
+
+#: binmerge-gui.py:257
+msgid "Binmerge GUI by load word team"
+msgstr ""
+
+#: binmerge-gui.py:263 binmerge-gui.py:289
+msgid "Source .CUE file:"
+msgstr ""
+
+#: binmerge-gui.py:267 binmerge-gui.py:293
+msgid "Browse source .CUE"
+msgstr ""
+
+#: binmerge-gui.py:272
+msgid "Destination CUE/BIN:"
+msgstr ""
+
+#: binmerge-gui.py:277
+msgid "Set merged .CUE"
+msgstr ""
+
+#: binmerge-gui.py:283 binmerge-gui.py:356
+msgid "Merge Tracks!"
+msgstr ""
+
+#: binmerge-gui.py:298
+msgid "Destination files:"
+msgstr ""
+
+#: binmerge-gui.py:303
+msgid "Set split .CUE"
+msgstr ""
+
+#: binmerge-gui.py:309 binmerge-gui.py:365
+msgid "Split Tracks!"
+msgstr ""
+
+#: binmerge-gui.py:315
+msgid "Log:"
+msgstr ""
+
+#: binmerge-gui.py:324
+msgid ""
+"Binmerge-GUI v1.0 by load word team, based on Chris Putnam's binmerge.\n"
+"This is free software released under the GPL 3 License.\n"
+"Visit our website for more information http://loadwordteam.com\n"
+"\n"
+msgstr ""
+
+#: binmerge-gui.py:329
+msgid "Merge Tracks"
+msgstr ""
+
+#: binmerge-gui.py:330
+msgid "Split Tracks"
+msgstr ""
+
+#: binmerge-gui.py:338 binmerge-gui.py:347
+msgid "Please wait"
+msgstr ""
+
+#: binmerge-gui.py:382
+msgid "Choose a .cue file to split"
+msgstr ""
+
+#: binmerge-gui.py:383 binmerge-gui.py:395 binmerge-gui.py:452
+#: binmerge-gui.py:464
+msgid "all files"
+msgstr ""
+
+#: binmerge-gui.py:383 binmerge-gui.py:395 binmerge-gui.py:452
+#: binmerge-gui.py:464
+msgid "cue files"
+msgstr ""
+
+#: binmerge-gui.py:388 binmerge-gui.py:457
+msgid "CUE source: %s"
+msgstr ""
+
+#: binmerge-gui.py:393
+msgid "split_image.cue"
+msgstr ""
+
+#: binmerge-gui.py:394
+msgid "Save a split image with a .cue file"
+msgstr ""
+
+#: binmerge-gui.py:401 binmerge-gui.py:470
+msgid "CUE destination: %s"
+msgstr ""
+
+#: binmerge-gui.py:409 binmerge-gui.py:412
+msgid "Can't split!"
+msgstr ""
+
+#: binmerge-gui.py:409 binmerge-gui.py:484
+msgid "Make sure you selected the source cue file!"
+msgstr ""
+
+#: binmerge-gui.py:412
+msgid "Make sure you set the final cue file!"
+msgstr ""
+
+#: binmerge-gui.py:415
+msgid "You have to select source and split cue file!"
+msgstr ""
+
+#: binmerge-gui.py:415 binmerge-gui.py:484 binmerge-gui.py:487
+#: binmerge-gui.py:490
+msgid "Can't merge!"
+msgstr ""
+
+#: binmerge-gui.py:418 binmerge-gui.py:493
+msgid "Opening cue: %s"
+msgstr ""
+
+#: binmerge-gui.py:424 binmerge-gui.py:445 binmerge-gui.py:499
+msgid "Error parsing cuesheet. Is it valid?"
+msgstr ""
+
+#: binmerge-gui.py:430
+msgid "Splitting started, it will take a while, don't panic!"
+msgstr ""
+
+#: binmerge-gui.py:432
+msgid "Wrote %d bin files"
+msgstr ""
+
+#: binmerge-gui.py:434
+msgid "Unable to split bin files."
+msgstr ""
+
+#: binmerge-gui.py:440 binmerge-gui.py:519
+msgid "Wrote new cue: %s"
+msgstr ""
+
+#: binmerge-gui.py:451
+msgid "Choose a .cue file to merge"
+msgstr ""
+
+#: binmerge-gui.py:462
+msgid "merged_image.cue"
+msgstr ""
+
+#: binmerge-gui.py:463
+msgid "Save a merged .cue file"
+msgstr ""
+
+#: binmerge-gui.py:476
+msgid "ERROR %s"
+msgstr ""
+
+#: binmerge-gui.py:487
+msgid "Make sure you set the destination cue file!"
+msgstr ""
+
+#: binmerge-gui.py:490
+msgid "You have to select source and merged cue file!"
+msgstr ""
+
+#: binmerge-gui.py:503
+msgid "Merge operation started, it will take a while, don't panic!"
+msgstr ""
+
+#: binmerge-gui.py:508
+msgid "Merging %d tracks..."
+msgstr ""
+
+#: binmerge-gui.py:511
+msgid "Wrote a new bin: %s"
+msgstr ""
+
+#: binmerge-gui.py:513
+msgid "Unable to merge bin files."
+msgstr ""
+

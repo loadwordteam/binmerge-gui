@@ -1,0 +1,205 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: binmergeGUI\n"
+"POT-Creation-Date: 2023-03-17 10:39+0000\n"
+"PO-Revision-Date: 2023-03-17 12:51+0100\n"
+"Last-Translator: IlDucci <pajaroloco_2@hotmail.com>\n"
+"Language-Team: loadwordteam\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#: binmerge-gui.py:98
+msgid "Bin file not found or not readable: %s"
+msgstr "Archivo .BIN no encontrado o no se puede leer: %s"
+
+#: binmerge-gui.py:202 binmerge-gui.py:224
+msgid "Target bin path already exists: %s"
+msgstr "La ruta del .BIN de destino ya existe: %s"
+
+#: binmerge-gui.py:257
+msgid "Binmerge GUI by load word team"
+msgstr "Binmerge GUI por load word team"
+
+#: binmerge-gui.py:263 binmerge-gui.py:289
+msgid "Source .CUE file:"
+msgstr "Archivo .CUE original:"
+
+#: binmerge-gui.py:267 binmerge-gui.py:293
+msgid "Browse source .CUE"
+msgstr "Buscar .CUE original"
+
+#: binmerge-gui.py:272
+msgid "Destination CUE/BIN:"
+msgstr "Archivos CUE/BIN de destino:"
+
+#: binmerge-gui.py:277
+msgid "Set merged .CUE"
+msgstr "Seleccionar .CUE combinado"
+
+#: binmerge-gui.py:283 binmerge-gui.py:356
+msgid "Merge Tracks!"
+msgstr "¡Fusionar pistas!"
+
+#: binmerge-gui.py:298
+msgid "Destination files:"
+msgstr "Archivos de destino:"
+
+#: binmerge-gui.py:303
+msgid "Set split .CUE"
+msgstr "Seleccionar .CUE separado"
+
+#: binmerge-gui.py:309 binmerge-gui.py:365
+msgid "Split Tracks!"
+msgstr "¡Separar pistas!"
+
+#: binmerge-gui.py:315
+msgid "Log:"
+msgstr "Registro:"
+
+#: binmerge-gui.py:324
+msgid ""
+"Binmerge-GUI v1.0 by load word team, based on Chris Putnam's binmerge.\n"
+"This is free software released under the GPL 3 License.\n"
+"Visit our website for more information http://loadwordteam.com\n"
+"\n"
+msgstr ""
+"Binmerge-GUI v1.0 por load word team, basado en binmerge de Chris Putnam.\n"
+"Este es un software libre publicado bajo licencia GPL 3.\n"
+"Para más información, visita nuestra web: http://loadwordteam.com\n"
+"\n"
+
+#: binmerge-gui.py:329
+msgid "Merge Tracks"
+msgstr "Fusionar pistas"
+
+#: binmerge-gui.py:330
+msgid "Split Tracks"
+msgstr "Separar pistas"
+
+#: binmerge-gui.py:338 binmerge-gui.py:347
+msgid "Please wait"
+msgstr "Espera, por favor..."
+
+#: binmerge-gui.py:382
+msgid "Choose a .cue file to split"
+msgstr "Seleccionar archivo .CUE a separar"
+
+#: binmerge-gui.py:383 binmerge-gui.py:395 binmerge-gui.py:452
+#: binmerge-gui.py:464
+msgid "all files"
+msgstr "todos los archivos"
+
+#: binmerge-gui.py:383 binmerge-gui.py:395 binmerge-gui.py:452
+#: binmerge-gui.py:464
+msgid "cue files"
+msgstr "archivos CUE"
+
+#: binmerge-gui.py:388 binmerge-gui.py:457
+msgid "CUE source: %s"
+msgstr "CUE original: %s"
+
+#: binmerge-gui.py:393
+msgid "split_image.cue"
+msgstr "imagen_separada.cue"
+
+#: binmerge-gui.py:394
+msgid "Save a split image with a .cue file"
+msgstr "Guardar imagen separada con un archivo .CUE"
+
+#: binmerge-gui.py:401 binmerge-gui.py:470
+msgid "CUE destination: %s"
+msgstr "CUE de destino: %s"
+
+#: binmerge-gui.py:409 binmerge-gui.py:412
+msgid "Can't split!"
+msgstr "¡No se puede separar!"
+
+#: binmerge-gui.py:409 binmerge-gui.py:484
+msgid "Make sure you selected the source cue file!"
+msgstr "¡Comprueba que hayas seleccionado el archivo .CUE original!"
+
+#: binmerge-gui.py:412
+msgid "Make sure you set the final cue file!"
+msgstr "¡Comprueba que hayas seleccionado el archivo .CUE final!"
+
+#: binmerge-gui.py:415
+msgid "You have to select source and split cue file!"
+msgstr "¡Tienes que indicar el archivo CUE original y el separado!"
+
+#: binmerge-gui.py:415 binmerge-gui.py:484 binmerge-gui.py:487
+#: binmerge-gui.py:490
+msgid "Can't merge!"
+msgstr "¡No ha sido posible fusionar!"
+
+#: binmerge-gui.py:418 binmerge-gui.py:493
+msgid "Opening cue: %s"
+msgstr "Abriendo CUE: %s"
+
+#: binmerge-gui.py:424 binmerge-gui.py:445 binmerge-gui.py:499
+msgid "Error parsing cuesheet. Is it valid?"
+msgstr "Error al analizar el archivo .CUE. ¿Es un archivo válido?"
+
+#: binmerge-gui.py:430
+msgid "Splitting started, it will take a while, don't panic!"
+msgstr "Iniciando separación, puede llevar unos minutos, ¡no te asustes!"
+
+#: binmerge-gui.py:432
+msgid "Wrote %d bin files"
+msgstr "Se han escrito %d archivos .BIN"
+
+#: binmerge-gui.py:434
+msgid "Unable to split bin files."
+msgstr "No se ha podido separar el archivo .BIN."
+
+#: binmerge-gui.py:440 binmerge-gui.py:519
+msgid "Wrote new cue: %s"
+msgstr "Nuevo .CUE escrito: %s"
+
+#: binmerge-gui.py:451
+msgid "Choose a .cue file to merge"
+msgstr "Seleccionar archivo .CUE a fusionar"
+
+#: binmerge-gui.py:462
+msgid "merged_image.cue"
+msgstr "imagen_fusionada.cue"
+
+#: binmerge-gui.py:463
+msgid "Save a merged .cue file"
+msgstr "Guardar archivo .CUE fusionado"
+
+#: binmerge-gui.py:476
+msgid "ERROR %s"
+msgstr "ERROR %s"
+
+#: binmerge-gui.py:487
+msgid "Make sure you set the destination cue file!"
+msgstr "¡Comprueba que hayas seleccionado el archivo .CUE de destino!"
+
+#: binmerge-gui.py:490
+msgid "You have to select source and merged cue file!"
+msgstr "¡Tienes que indicar el archivo CUE original y el fusionado!"
+
+#: binmerge-gui.py:503
+msgid "Merge operation started, it will take a while, don't panic!"
+msgstr "Iniciando fusión, puede llevar unos minutos, ¡no te asustes!"
+
+#: binmerge-gui.py:508
+msgid "Merging %d tracks..."
+msgstr "Fusionando %d pistas..."
+
+#: binmerge-gui.py:511
+msgid "Wrote a new bin: %s"
+msgstr "Nuevo .BIN escrito: %s"
+
+#: binmerge-gui.py:513
+msgid "Unable to merge bin files."
+msgstr "No se han podido fusionar los archivos .BIN."
